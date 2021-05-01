@@ -12,8 +12,10 @@ Welcome to our github profile() {
 }
 
 <p>
+  <cetner>
       <h3>Hello world!</h3>
-          Here on the official consploit github profile
-          you will find our website source code
+        <hr>
+          Here on the official consploit github profile<br>
+          you will find our website source code<br>
           social accounts and some side projects done by our team.
 </p>
