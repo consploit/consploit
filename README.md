@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**consploit/consploit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**consploit/README.md** 
 
-Here are some ideas to get you started:
+✨ Welcome to consploit ✨
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Welcome to our github profile() {
+  - 🔭 I’m currently working on: Consploits front-end
+  - 📫 How to reach me: luna@consploit.com | luna@nasa.support
+  - ⚡ Fun fact: Consploit is netbase but by better people!
+}
+
+--> Hello world!
+    Here on the official consploit github profile
+    you will find our website source code
+    social accounts and some side projects done by our team.
+    
