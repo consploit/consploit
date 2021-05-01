@@ -10,9 +10,9 @@ Welcome to our github profile() {
   - ⚡ Fun fact: Consploit is netbase but by better people!
   - 
 }
+    <center>
 
 <p>
-    <center>
       <h1>Hello world!</h1>
         <br>
         <hr>
@@ -22,5 +22,4 @@ Welcome to our github profile() {
         <br>
           social accounts and some side projects done by our team.
         <br>
-    </center>
 </p>
