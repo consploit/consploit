@@ -10,16 +10,10 @@ Welcome to our github profile() {
   - ⚡ Fun fact: Consploit is netbase but by better people!
   - 
 }
-    <center>
 
 <p>
-      <h1>Hello world!</h1>
-        <br>
-        <hr>
+      <h3>Hello world!</h3>
           Here on the official consploit github profile
-        <br>
           you will find our website source code
-        <br>
           social accounts and some side projects done by our team.
-        <br>
 </p>
