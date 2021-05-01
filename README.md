@@ -13,10 +13,9 @@ Welcome to our github profile() {
 
 <p>
     <center>
-      <h1>Hello world!<h1>
+      <h1>Hello world!</h1>
         <br>
         <hr>
-        --> 
           Here on the official consploit github profile
         <br>
           you will find our website source code
